@@ -1,0 +1,2 @@
+# bostema
+ Boş Wordpress Teması
